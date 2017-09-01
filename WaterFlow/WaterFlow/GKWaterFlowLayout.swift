@@ -1,6 +1,6 @@
 //
 //  GKWaterFlowLayout.swift
-//  02-瀑布流
+//  02-WaterFlow
 //
 //  Created by caesar on 2017/5/24.
 //  Copyright © 2017年 guokai. All rights reserved.

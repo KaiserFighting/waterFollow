@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:02-&#x7011;&#x5e03;&#x6d41;.xcodeproj">
+      location = "self:WaterFlow.xcodeproj">
    </FileRef>
 </Workspace>

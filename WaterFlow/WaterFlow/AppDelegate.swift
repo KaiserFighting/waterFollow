@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  02-瀑布流
+//  WaterFlow
 //
-//  Created by caesar on 2017/5/23.
-//  Copyright © 2017年 guokai. All rights reserved.
+//  Created by caesar on 2017/9/1.
+//  Copyright © 2017年 molyfun. All rights reserved.
 //
 
 import UIKit

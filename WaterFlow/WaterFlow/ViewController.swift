@@ -1,16 +1,17 @@
 //
 //  ViewController.swift
-//  02-瀑布流
+//  WaterFlow
 //
-//  Created by caesar on 2017/5/23.
-//  Copyright © 2017年 guokai. All rights reserved.
+//  Created by caesar on 2017/9/1.
+//  Copyright © 2017年 molyfun. All rights reserved.
 //
+
 import UIKit
 
 private let kIdenrifier = "Idenrifier"
 
 class ViewController: UIViewController {
- 
+    
     fileprivate var itemCount = 30
     
     fileprivate lazy var collectionView : UICollectionView = {
@@ -67,7 +68,6 @@ extension ViewController : GKWaterFlowLayoutDataSource {
         return  itemIndex % 2 == 0 ? screenW * 2 / 3 : screenW * 0.5
     }
 }
-
 
 
 
