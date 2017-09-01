@@ -11,8 +11,8 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "5.0"
   s.source       = { :git => "https://github.com/KaiserFighting/waterFollow.git"}
-  s.source_files  = "GKWaterFlowLayout", "GKWaterFlowLayout/*.{h}"
-  s.public_header_files = "GKWaterFlowLayout/*.h"
+  s.source_files  = "GKWaterFlowLayout", "GKWaterFlowLayout/*.{swift}”
+  s.public_header_files = "GKWaterFlowLayout/*.swift"
   s.requires_arc = true
 
 
