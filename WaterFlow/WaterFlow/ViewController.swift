@@ -27,7 +27,6 @@ class ViewController: UIViewController {
         collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: kIdenrifier)
         
         return collectionView
-        
     }()
     
     override func viewDidLoad() {
